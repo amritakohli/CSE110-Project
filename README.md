@@ -1,5 +1,7 @@
 # CSE110-Project
 
+Demo video: https://www.youtube.com/watch?v=Y2hzoiyIzH8&ab_channel=SkylerAckerman
+
 To start up Firebase:
 (Begin in root directory i.e. CSE110-Project)
 1. npm install -g firebase-tools
